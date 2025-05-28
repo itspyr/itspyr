@@ -12,8 +12,8 @@ Below is a collection of my Java projects, showcasing my skills in software deve
 
 | Project Name | Description | Technologies Used | Repository Link | Collaboration |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **Simple ChatBot** | Simple guided reponse Java ran chatbot. | Java | https://github.com/itspyr/ChatBot.git | SOLO |
-| **Running Log** | The running log consists of recording/calculating running pace for certain distances. | Java | https://github.com/itspyr/Running-Log.git | SOLO |
+| **Simple ChatBot** | Simple guided reponse Java ran chatbot. | Java | https://github.com/itspyr/ChatBot.git | Solo |
+| **Running Log** | The running log consists of recording/calculating running pace for certain distances. | Java | https://github.com/itspyr/Running-Log.git | Solo |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... |
 
 
@@ -22,7 +22,7 @@ This section highlights my SQL projects, demonstrating my ability to design data
 
 | Project Name | Description | Technologies Used | Repository Link | Collaboration |
 |--------------|-------------|-------------------|-----------------|-------------|
-| Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+| **SQL-Employment-Rates**  | Analyze a 20234 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry. | SQL, DataGrip | (https://github.com/itspyr/SQL-Employment-Rates | Solo |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
