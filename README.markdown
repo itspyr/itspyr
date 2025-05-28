@@ -22,7 +22,7 @@ This section highlights my SQL projects, demonstrating my ability to design data
 
 | Project Name | Description | Technologies Used | Repository Link | Collaboration |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **SQL-Employment-Rates**  | Analyze a 20234 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry. | SQL, DataGrip | (https://github.com/itspyr/SQL-Employment-Rates | Solo |
+| **SQL-Employment-Rates**  | Analyze a 20234 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry. | SQL, DataGrip | https://github.com/itspyr/SQL-Employment-Rates | Solo |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
