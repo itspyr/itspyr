@@ -31,7 +31,7 @@ This section showcases some applications created using languages such as Java, C
 
 | Project Name | Description | Technologies Used | Repository Link | Collaboration |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **HABTApp** | IOS / Android / PC Application created to expell those who have habits they are looking to have no more! | Java / CSS / Framework / Codename One | https://github.com/zachsarc/HABTApp.git | Tyler Pyrzenski, Zachary Lariccia |
+| **HABTApp** | IOS / Android / PC Application created for those who are looking to expell their bad habits! | Java / CSS / Framework / Codename One | https://github.com/zachsarc/HABTApp.git | Tyler Pyrzenski, Zachary Lariccia |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
