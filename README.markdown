@@ -10,28 +10,28 @@ Welcome to my GitHub portfolio! This repository showcases my skills and projects
 ## Java Projects ♨️
 Below is a collection of my Java projects, showcasing my skills in software development, including object-oriented programming, data structures, and application design.
 
-| Project Name | Description | Technologies Used | Repository Link | Collaboration |
+| Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **Simple ChatBot** | Simple guided reponse Java ran chatbot. | Java | https://github.com/itspyr/ChatBot.git | Solo |
-| **Running Log** | The running log consists of recording/calculating running pace for certain distances. | Java | https://github.com/itspyr/Running-Log.git | Solo |
+| **Simple ChatBot** | Simple guided reponse Java ran chatbot. | Java | https://github.com/itspyr/ChatBot.git | February 2025 |
+| **Running Log** | The running log consists of recording/calculating running pace for certain distances. | Java | https://github.com/itspyr/Running-Log.git | Ongoing |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
 
 ## SQL Projects 🗄️
 This section highlights my SQL projects, demonstrating my ability to design databases, write complex queries, and perform data analysis.
 
-| Project Name | Description | Technologies Used | Repository Link | Collaboration |
+| Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **SQL-Employment-Rates**  | Analyze a 2024 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry. | SQL (SQLite) in DataGrip | https://github.com/itspyr/SQL-Employment-Rates | Solo |
+| **SQL-Employment-Rates**  | Analyze a 2024 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry. | SQL (SQLite) in DataGrip | https://github.com/itspyr/SQL-Employment-Rates | Ongoing |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
 ## App Development 📱
 This section showcases some applications created using languages such as Java, CSS, HTML, Javascript, etc.
 
-| Project Name | Description | Technologies Used | Repository Link | Collaboration |
+| Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **HABTApp** | IOS / Android / PC Application created for those who are looking to expell their bad habits! | Java / CSS / Framework / Codename One | https://github.com/zachsarc/HABTApp.git | Tyler Pyrzenski, Zachary Lariccia |
+| **HABTApp** | IOS / Android / PC Application created for those who are looking to expell their bad habits! | Java / CSS / Framework / Codename One | https://github.com/zachsarc/HABTApp.git | Ongoing |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
@@ -39,9 +39,9 @@ This section showcases some applications created using languages such as Java, C
 ## AI 📱
 This section showcases some applications created using languages such as Java, CSS, HTML, Javascript, etc.
 
-| Project Name | Description | Technologies Used | Repository Link | Collaboration |
+| Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **CapStone Project - AI Powerlines** | This project developed and analyzed two marketable innovations for smart, AI-monitored power lines to help utility companies increase long-term revenue. The team conducted market research, evaluated EV-charging integration, and presented a comprehensive business case to stakeholders by May 5, 2024. | HTML, CSS, JavaScript |  https://github.com/zachsarc/CAP1/blob/main/notes.md | Tyler Pyrzenski, Zachary Lariccia, Jacob Nadeau, Sara Kohl |
+| **CapStone Project - AI Powerlines** | This project developed and analyzed two marketable innovations for smart, AI-monitored power lines to help utility companies increase long-term revenue. The team conducted market research, evaluated EV-charging integration, and presented a comprehensive business case to stakeholders by May 5, 2024. | HTML, CSS, JavaScript |  https://github.com/zachsarc/CAP1/blob/main/notes.md | November 2023 |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
