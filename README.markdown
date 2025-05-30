@@ -7,14 +7,14 @@ Welcome to my GitHub portfolio! This repository showcases my skills and projects
 - **Background**: Computer Science Major and Artificial Intelligence at Central Connecticut State University 
 - **Skills**: Java, Javascript, HTML/CSS, SQL, LLM Prompting.
 
-## Java Projects 📤
+## Java Projects ♨️
 Below is a collection of my Java projects, showcasing my skills in software development, including object-oriented programming, data structures, and application design.
 
 | Project Name | Description | Technologies Used | Repository Link | Collaboration |
 |--------------|-------------|-------------------|-----------------|-------------|
 | **Simple ChatBot** | Simple guided reponse Java ran chatbot. | Java | https://github.com/itspyr/ChatBot.git | Solo |
 | **Running Log** | The running log consists of recording/calculating running pace for certain distances. | Java | https://github.com/itspyr/Running-Log.git | Solo |
-| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... |
+| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
 
 ## SQL Projects 🗄️
@@ -32,6 +32,16 @@ This section showcases some applications created using languages such as Java, C
 | Project Name | Description | Technologies Used | Repository Link | Collaboration |
 |--------------|-------------|-------------------|-----------------|-------------|
 | **HABTApp** | IOS / Android / PC Application created for those who are looking to expell their bad habits! | Java / CSS / Framework / Codename One | https://github.com/zachsarc/HABTApp.git | Tyler Pyrzenski, Zachary Lariccia |
+| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+
+
+## AI 📱
+This section showcases some applications created using languages such as Java, CSS, HTML, Javascript, etc.
+
+| Project Name | Description | Technologies Used | Repository Link | Collaboration |
+|--------------|-------------|-------------------|-----------------|-------------|
+| **CapStone Project - AI Powerlines** | This project developed and analyzed two marketable innovations for smart, AI-monitored power lines to help utility companies increase long-term revenue. The team conducted market research, evaluated EV-charging integration, and presented a comprehensive business case to stakeholders by May 5, 2024. | HTML, CSS, JavaScript |  https://github.com/zachsarc/CAP1/blob/main/notes.md | Tyler Pyrzenski, Zachary Lariccia, Jacob Nadeau, Sara Kohl |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
