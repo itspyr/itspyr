@@ -26,6 +26,15 @@ This section highlights my SQL projects, demonstrating my ability to design data
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
+## App Development 📱
+This section showcases some applications created using languages such as Java, CSS, HTML, Javascript, etc.
+
+| Project Name | Description | Technologies Used | Repository Link | Collaboration |
+|--------------|-------------|-------------------|-----------------|-------------|
+| **HABTApp** | IOS / Android / PC Application created to expell those who have habits they are looking to have no more! | Java / CSS / Framework / Codename One | https://github.com/zachsarc/HABTApp.git | Tyler Pyrzenski, Zachary Lariccia |
+| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+
 
 ## Lessons Learned 🧠
 - **Simple ChatBot**: This ChatBot allows for the user to input responses to questions asked. Responses by the user must be a specific answer which allows me to implement clear errors codes for invalid inputs. There us input validation to ensure the numbers/texts being entered by the user are fitting for the question at hand.
