@@ -31,7 +31,7 @@ This section showcases some applications created using languages such as Java, C
 
 | Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **HABTApp** | IOS / Android / PC Application created for those who are looking to expell their bad habits! | Java / CSS / Framework / Codename One | https://github.com/zachsarc/HABTApp.git | Ongoing |
+| **HABTApp** | IOS / Android / PC Application created for those who are looking to expell their bad habits! | Java / CSS / Framework / Codename One / Firebase Database| https://github.com/zachsarc/HABTApp.git | Ongoing |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
