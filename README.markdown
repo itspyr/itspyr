@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! This repository showcases my skills and projects
 ## About Me 📖
 - **Name**: Tyler Pyrzenski
 - **Background**: Computer Science Major and Artificial Intelligence at Central Connecticut State University 
-- **Skills**: Java, Javascript, HTML/CSS, SQL, LLM Prompting.
+- **Skills**: Java, Javascript, Assembly, C, C++, HTML/CSS, SQL, Binary, LLM Prompting.
 
 ## Java Projects ♨️
 Below is a collection of my Java projects, showcasing my skills in software development, including object-oriented programming, data structures, and application design.
