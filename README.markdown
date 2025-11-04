@@ -26,7 +26,7 @@ This section highlights my SQL projects, demonstrating my ability to design data
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
-## C++ / Robotics 📱
+## C++ / Robotics 🤖
 Embedded systems and robotics experiments in C++ using Arduino microcontrollers.
 
 | Project Name | Description | Technologies Used | Repository Link | Completion Date |
