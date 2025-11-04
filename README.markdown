@@ -24,7 +24,6 @@ This section highlights my SQL projects, demonstrating my ability to design data
 |--------------|-------------|-------------------|-----------------|-------------|
 | **SQL-Employment-Rates**  | Analyze a 2024 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry. | SQL (SQLite) in DataGrip | https://github.com/itspyr/SQL-Employment-Rates | Ongoing |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
-| Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
 ## C++ / Robotics 🤖
 Embedded systems and robotics experiments in C++ using Arduino microcontrollers.
@@ -42,13 +41,6 @@ This section showcases some applications created using languages such as Java, C
 |--------------|-------------|-------------------|-----------------|-------------|
 | **CapStone Project - AI Powerlines** | This project developed and analyzed two marketable innovations for smart, AI-monitored power lines to help utility companies increase long-term revenue. The team conducted market research, evaluated EV-charging integration, and presented a comprehensive business case to stakeholders by May 5, 2024. | HTML, CSS, JavaScript |  https://github.com/zachsarc/CAP1/blob/main/notes.md | November 2023 |
 | **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
-| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
-
-
-## Lessons Learned 🧠
-- **Simple ChatBot**: This ChatBot allows for the user to input responses to questions asked. Responses by the user must be a specific answer which allows me to implement clear errors codes for invalid inputs. There us input validation to ensure the numbers/texts being entered by the user are fitting for the question at hand.
-
-- **Running Log**: Throughout this project, I will be incoorperating more features such as other aspects of running- For example, recording the outdoor temperature during a run, calculating how many calories were burned during a run, cumulative running distance, etc.
 
 
 
