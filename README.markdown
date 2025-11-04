@@ -14,7 +14,7 @@ Below is a collection of my Java projects, showcasing my skills in software deve
 |--------------|-------------|-------------------|-----------------|-------------|
 | **Simple ChatBot** | Simple guided reponse Java ran chatbot. | Java | https://github.com/itspyr/ChatBot.git | February 2025 |
 | **Running Log** | The running log consists of recording/calculating running pace for certain distances. | Java | https://github.com/itspyr/Running-Log.git | Ongoing |
-| **Scrambl** | Scrmbl is a Java-based encryption and decryption framework that reimagines a previous image-scrambling concept into a text-focused, multi-structure cipher system. The project demonstrates how different data structures—maps, graphs, and trees—can uniquely drive algorithmic encryption logic. | Coming Soon | https://github.com/zachsarc/scrmbl | Coming soon... |
+| **Scrambl** | Scrmbl is a Java-based encryption and decryption framework that reimagines a previous image-scrambling concept into a text-focused, multi-structure cipher system. The project demonstrates how different data structures—maps, graphs, and trees—can uniquely drive algorithmic encryption logic. | Java, CSS, Frameworks, Maps, Graphs, Trees, ADT's | https://github.com/zachsarc/scrmbl | Coming soon... |
 
 
 ## SQL Projects 🗄️
