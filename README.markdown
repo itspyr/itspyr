@@ -26,14 +26,13 @@ This section highlights my SQL projects, demonstrating my ability to design data
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 | Coming soon... | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
-## App Development 📱
-This section showcases some applications created using languages such as Java, CSS, HTML, Javascript, etc.
+## C++ / Robotics 📱
+Embedded systems and robotics experiments in C++ using Arduino microcontrollers.
 
 | Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **HABTApp** | IOS / Android / PC Application created for those who are looking to expell their bad habits! | Java / CSS / Framework / Codename One / Firebase Database| https://github.com/zachsarc/HABTApp.git | Ongoing |
-| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
-| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+| **Robotic Projects** | Embedded systems and robotics experiments in C++ using Arduino microcontrollers. | C++, Arduino IDE, Arduino Uno, breadboard circuits, LEDs, sensors, and servo motors | https://github.com/itspyr/C-Robotics | Ongoing |
+
 
 
 ## AI 📱
