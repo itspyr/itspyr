@@ -14,7 +14,7 @@ Below is a collection of my Java projects, showcasing my skills in software deve
 |--------------|-------------|-------------------|-----------------|-------------|
 | **Simple ChatBot** | Simple guided reponse Java ran chatbot. | Java | https://github.com/itspyr/ChatBot.git | February 2025 |
 | **Running Log** | The running log consists of recording/calculating running pace for certain distances. | Java | https://github.com/itspyr/Running-Log.git | Ongoing |
-| **Coming soon...** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+| **Scrambl** | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
 
 
 ## SQL Projects 🗄️
