@@ -1,6 +1,6 @@
 # Tyler Pyrzenski's Portfolio 💻
 
-Welcome to my GitHub portfolio! This repository showcases my skills and projects in **Java**, **SQL**, and **more** demonstrating my expertise in software development and data analysis. Below, you'll find my work organized in tables for easy navigation, with links to project folders, code, and demos. Explore the projects and feel free to reach out with questions or collaboration opportunities!
+Welcome to my GitHub portfolio! This repository showcases my skills and projects in **Java**, **SQL**, **C++** and **more** demonstrating my expertise in software development and data analysis. Below, you'll find my work organized in tables for easy navigation, with links to project folders, code, and demos. Explore the projects and feel free to reach out with questions or collaboration opportunities!
 
 ## About Me 📖
 - **Name**: Tyler Pyrzenski
