@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! Below you will find projects in **Java**, **SQL**, **C++** and **more** demonstrating my expertise in software development and system design. 
 
 ## About Me 📖
-Computer Science major • Minor in Artificial Intelligence
+Computer Science major • Artificial Intelligence minor
 
 ## Projects 📦
 Below is a collection of my Java projects, showcasing my skills in software development, including object-oriented programming, data structures, and application design.
