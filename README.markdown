@@ -42,7 +42,7 @@ This section showcases some applications created using languages such as Java, C
 
 ## Contact 📧
 - **Email**: itspyr@outlook.com
-- **LinkedIn**: https://www.linkedin.com/in/tyler-pyrzenski-1846602a0/
+- **LinkedIn**: https://www.linkedin.com/in/itspyr
 - **GitHub**: https://github.com/itspyr
 
 
