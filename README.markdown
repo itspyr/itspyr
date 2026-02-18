@@ -1,6 +1,6 @@
 # Tyler Pyrzenski's Portfolio 💻
 
-Welcome to my GitHub portfolio! Below you will find projects in **Java**, **SQL**, **C++** and **more** demonstrating my expertise in software development and system design. 
+Welcome to my GitHub portfolio. The projects below demonstrate my experience with data structures, algorithms, software design, artificial intelligence concepts, and system-level problem solving.
 
 ## About Me 📖
 Computer Science major • Artificial Intelligence minor
