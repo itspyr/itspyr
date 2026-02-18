@@ -10,8 +10,8 @@ Below is a collection of my Java projects, showcasing my skills in software deve
 
 | Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
-| **PYR Deployment Systems** | A rule based system for evaluating trade risk and capital deployment decisions. | Java, JavaScript, HTML, CSS, Local Storage, API Integration, Rule Based Systems | https://github.com/itspyr/PYR-Deployment-Systems | Ongoing |
-| **Scrambl** | Scrmbl is a Java-based encryption and decryption framework that reimagines a previous image-scrambling concept into a text-focused, multi-structure cipher system. The project demonstrates how different data structures—maps, graphs, and trees—can uniquely drive algorithmic encryption logic. | Java, CSS, Frameworks, Maps, Graphs, Trees, ADT's | https://github.com/zachsarc/scrmbl | Finished |
+| **PYR Deployment Systems** | A rule based system for evaluating trade risk and capital deployment decisions. | Java, JavaScript, HTML, CSS, Local Storage, API Integration, Rule Based Systems | https://github.com/itspyr/PYR-Deployment-Systems | January 2026 |
+| **Scrambl** | Scrmbl is a Java-based encryption and decryption framework that reimagines a previous image-scrambling concept into a text-focused, multi-structure cipher system. The project demonstrates how different data structures—maps, graphs, and trees—can uniquely drive algorithmic encryption logic. | Java, CSS, Frameworks, Maps, Graphs, Trees, ADT's | https://github.com/zachsarc/scrmbl | December 2025 |
 
 
 ## SQL / Machine Learning Projects 🗄️
@@ -20,7 +20,7 @@ This section shows my SQL and machine learning projects, where I work with data,
 | Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
 | **SQL-Employment-Rates**  | Analyze a 2024 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry. | SQL (SQLite) in DataGrip | https://github.com/itspyr/SQL-Employment-Rates | Finshed |
-| **Jupyter Notebook**  | Used Jupyter Notebook to clean data, train a model, test its accuracy, and analyze which features had the biggest impact. | Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn, Matplotlib | https://github.com/itspyr/Machine-Learning | Finished |
+| **Jupyter Notebook**  | Used Jupyter Notebook to clean data, train a model, test its accuracy, and analyze which features had the biggest impact. | Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn, Matplotlib | https://github.com/itspyr/Machine-Learning | February 2026 |
 
 ## C++ / Robotics 🤖
 Embedded systems and robotics experiments in C++ using Arduino microcontrollers.
