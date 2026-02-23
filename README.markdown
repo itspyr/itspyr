@@ -1,4 +1,4 @@
-# Tyler Pyrzenski's Portfolio 💻
+# Tyler Pyrzenski
 
 Welcome to my GitHub portfolio. The projects below demonstrate my experience with data structures, algorithms, software design, artificial intelligence concepts, and system-level problem solving.
 
