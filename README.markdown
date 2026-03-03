@@ -11,6 +11,7 @@ Below is a collection of my Java projects, showcasing my skills in software deve
 | Project Name | Description | Technologies Used | Repository Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
 | **PYR Deployment Systems** | A rule based system for evaluating trade risk and capital deployment decisions. | Java, JavaScript, HTML, CSS, Local Storage, API Integration, Rule Based Systems | https://github.com/itspyr/PYR-Deployment-Systems | January 2026 |
+| **Job Scraper** | A Python-based console application that scrapes job listings and lets you browse and apply for jobs directly from the terminal. | Python, BeautfiulSoup, Requests | https://github.com/itspyr/Job-Scraper | March 2026 |
 | **Scrambl** | Scrmbl is a Java-based encryption and decryption framework that reimagines a previous image-scrambling concept into a text-focused, multi-structure cipher system. The project demonstrates how different data structures—maps, graphs, and trees—can uniquely drive algorithmic encryption logic. | Java, CSS, Frameworks, Maps, Graphs, Trees, ADT's | https://github.com/zachsarc/scrmbl | December 2025 |
 
 
