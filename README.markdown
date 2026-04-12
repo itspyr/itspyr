@@ -11,6 +11,8 @@ This section showcases the production software I have shipped as a **Junior Soft
 | Project Name | Description | Technologies Used | Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
 | **Blog** | Full-stack blog platform with scheduled publishing, thumbnail uploads, and an auth-protected admin panel.| Next.js, NestJS, TypeScript, AWS S3, REST APIs, Role-Based Access Control, GitHub | https://courtmatch.ai/blog/ | March 2026 |
+| **Misc.** | Miscellaneous commits.| - Applied users gender to 'Manage Attendies' panel. | - Improved SEO with tuned crawler and improved meta tags. |
+
 
 ## Projects 📦
 Below is a collection of my Java projects, showcasing my skills in software development, including object-oriented programming, data structures, and application design.
