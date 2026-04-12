@@ -5,6 +5,13 @@ Welcome to my GitHub portfolio. The projects below demonstrate my experience wit
 ## About Me 📖
 Computer Science major • Artificial Intelligence minor
 
+## Courtmatch 🎾 
+This section showcases the production software I have shipped as a **Junior Software Developer** at CourtMatch, a tennis court booking and player matchmaking platform serving active users.
+
+| Project Name | Description | Technologies Used | Link | Completion Date |
+|--------------|-------------|-------------------|-----------------|-------------|
+| **Blog** | Full-stack blog platform with scheduled publishing, thumbnail uploads, and an auth-protected admin panel.| Next.js, NestJS, TypeScript, AWS S3, REST APIs, Role-Based Access Control, GitHub | https://courtmatch.ai/blog/ | March 2026 |
+
 ## Projects 📦
 Below is a collection of my Java projects, showcasing my skills in software development, including object-oriented programming, data structures, and application design.
 
