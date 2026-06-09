@@ -11,8 +11,7 @@ This section showcases the production software I have shipped as a **Junior Soft
 | Project Name | Description | Technologies Used | Link | Completion Date |
 |--------------|-------------|-------------------|-----------------|-------------|
 | **Blog** | Full-stack blog platform with scheduled publishing, thumbnail uploads, and an auth-protected admin panel.| Next.js, NestJS, TypeScript, AWS S3, REST APIs, Role-Based Access Control, GitHub | https://courtmatch.ai/blog/ | March 2026 |
-| **Misc.** | **List of miscellaneous commits.** | - Applied user gender to 'Manage Attendees' panel. | - Improved SEO with tuned crawler and improved meta tags. | - Added darker shade of grey for time unavailable on calendar view. | - /get-started/ account chooser page. | - Member notification bell + preference settings. | - Tournament: printable Calcutta standings + CourtMatch logo on fullscreen/PDF. |
-
+| **Misc.** | **List of miscellaneous commits.**<ul><li>Applied user gender to 'Manage Attendees' panel.</li><li>Improved SEO with tuned crawler and improved meta tags.</li><li>Added darker shade of grey for time unavailable on calendar view.</li><li><code>/get-started/</code> account chooser page.</li><li>Member notification bell + preference settings.</li><li>Tournament: printable Calcutta standings + CourtMatch logo on fullscreen/PDF.</li></ul> | — | — | — |
 
 ## Projects 📦
 Below is a collection of my Java projects, showcasing my skills in software development, including object-oriented programming, data structures, and application design.
